@@ -41,7 +41,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 1. Download. 
 2. Run `npm i` in your terminal.
-3. Login to your **mysql** shell and run schema.sql. Optionally, you may also `npm run seeds` to seed the database.
+3. Login to your **mysql** shell and run schema.sql. Optionally, you may also `npm run seed` to seed the database.
 4. Create a .env file in the root and enter the following information:
 ```
 DB_NAME=employees_db  
@@ -58,15 +58,13 @@ DB_PASSWORD=YOUR_MYSQL_PASSWORD_GOES_HERE
 
 ![App Screenshot](./assets/images/SS2.png) 
 
-![App Screenshot](./assets/images/SS3.png) 
-
 ## Contributing  
 
 Follow best practices for naming conventions, indentation, quality comments, etc.  
 
 ## Tests  
 
-A seeds folder is included for testing purposes.
+A seeds folder is included for testing purposes. Run `npm run seed` then use Insomnia to make calls to routes.
 
 ## Questions  
 
