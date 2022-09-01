@@ -52,7 +52,7 @@ DB_PASSWORD=YOUR_MYSQL_PASSWORD_GOES_HERE
 
 ## Usage  
 
-**[Walkthrough Video](https://drive.google.com/file/d/1bmcOn1soIZEP6wXATo3wsAhYo2cORi4V/view?usp=sharing)**
+**[Walkthrough Video](https://drive.google.com/file/d/1sBtApEYqutYOUci_sTvA7tTQqx3U7XHC/view?usp=sharing)**
 
 ![App Screenshot](./assets/images/SS1.png) 
 
