@@ -41,7 +41,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 1. Download. 
 2. Run `npm i` in your terminal.
-3. Login to your **mysql** shell and run schema.sql. Optionally, you may also `npm run seed` to seed the database.
+3. Login to your **mysql** shell and `source schema.sql`. Optionally, you may also `npm run seed` to seed the database.
 4. Create a .env file in the root and enter the following information:
 ```
 DB_NAME=employees_db  
